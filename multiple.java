@@ -5,7 +5,7 @@ public class Practice {
         int second = 20;
         int multiple = first * second;
         System.out.println("The multiple is: " +multiple);
-    		
+    	//that is multiple code..	
 	}
 
 }
