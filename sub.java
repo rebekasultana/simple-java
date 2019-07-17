@@ -5,7 +5,7 @@ public class Practice {
         int second = 20;
         int sub = first - second;
         System.out.println("The subtract is: " + sub);
-    		
+    	//that is subtraction code..	
 	}
 
 }
